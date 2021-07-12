@@ -3,6 +3,6 @@
 [![DOI](https://zenodo.org/badge/286538177.svg)](https://zenodo.org/badge/latestdoi/286538177)
 
 
-## Augmentation with AugLy
+## Brain Tumours (Glioma) augmentation with AugLy - original image and ground truth mask augmented together 
 
 ![](aug_collague.png)
