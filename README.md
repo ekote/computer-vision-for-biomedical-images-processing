@@ -4,5 +4,8 @@
 
 
 ## Brain Tumours (Glioma) augmentation with AugLy - original image and ground truth mask augmented together 
-
 ![](aug_collague.png)
+
+## U-Net TF2 Keras Arch
+![](unet_colored.png)
+
