@@ -1,4 +1,6 @@
-# Computer Vision for biomedical images processing
+# Computer Vision for Biomedical Images Processing
+
+This repo contains some models, algorithms, and implemented methods used by [Estera Kot](https://www.linkedin.com/in/esterakot/) - a PhD Candidate at [Warsaw University of Technology, Faculty of Electrical Engineering](https://www.ee.pw.edu.pl/) - created for a her PhD thesis purpose.  
 
 [![DOI](https://zenodo.org/badge/286538177.svg)](https://zenodo.org/badge/latestdoi/286538177)
 
